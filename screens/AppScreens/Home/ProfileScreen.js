@@ -17,8 +17,8 @@ import IconButton from '../../../components/Buttons/IconButton';
 export default function ProfileScreen({navigation}) {
   const [status, setStatus] = useState('active');
   const profileImage = 'https://i.pravatar.cc/525';
-  const profileName = 'Robab Malick';
-  const profileJob = 'UX Designer';
+  const profileName = 'Asad Baig';
+  const profileJob = 'React Native Developer';
   const renderButton = (onPress, name, Icon) => {
     return (
       <TouchableOpacity style={styles.textButton} onPress={onPress}>
@@ -69,7 +69,7 @@ export default function ProfileScreen({navigation}) {
         <View style={styles.profileView}>
           <View style={styles.imageView}>
             <Avatar.Image
-              source={{uri: profileImage}}
+              source={require('../../../assets/images/asad.png')}
               size={160}
               style={{marginBottom: 5}}
             />

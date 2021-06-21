@@ -19,6 +19,19 @@ One Touch is social advertising manager. This repository contains the UI of the 
     <img src="./ui_screenshots/6.jpg" alt="Camera" width="300" height="500">
     <img src="./ui_screenshots/7.jpg" alt="Camera" width="300" height="500">
     <img src="./ui_screenshots/8.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/9.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/10.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/11.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/12.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/13.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/14.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/15.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/16.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/17.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/18.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/19.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/20.jpg" alt="Camera" width="300" height="500">
+    <img src="./ui_screenshots/21.jpg" alt="Camera" width="300" height="500">
 
 </a>
 </p>
@@ -27,7 +40,7 @@ One Touch is social advertising manager. This repository contains the UI of the 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AsadBaig039/Sell_It.git
+   git clone https://github.com/AsadBaig039/OneTouch.git
    ```
 2. Install NPM packages
 
@@ -37,24 +50,17 @@ One Touch is social advertising manager. This repository contains the UI of the 
 
 ### Run Application
 
-1. Install expo app on your physical device (on Emulator app will be install automatically)
-2. Open VSCode Terminal
-3. Run the Command
+1. Open VSCode Terminal
+2. Run the Command
    ```sh
-   expo start
+   react-native run-android
    ```
-4. Choose Tunnel option (Incase LAN does not work).
-5. Open Expo App on your mobile or emulator
-6. Scan the QR Code
-7. Bundle will start building
-
-and here u go!!!!!!!!
 
 ## Contact
 
 ASAD BAIG - [asad.baig039@gmail.com](asad.baig039@gmail.com)
 
-Project Link: [https://github.com/AsadBaig039/Sell_It.git](https://github.com/AsadBaig039/Sell_It.git)
+Project Link: [https://github.com/AsadBaig039/OneTouch.git](https://github.com/AsadBaig039/OneTouch.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 
